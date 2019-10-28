@@ -1,1 +1,3 @@
-# Algoritmos y Programacion 2 - TP 3: Cuatro en línea 3D V2.0
+# Algoritmos y Programación 2 (75.41) - TP 3
+
+Trabajo práctico realizado el primer cuatrimestre de 2019 en FIUBA basado en el juego 4 en linea. Versión 3D mejorada
